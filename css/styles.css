@@ -68,6 +68,12 @@ body {
   .sub-heading{
     text-align: center;
   }
+@media (min-width:767px){
+  #nav-list a {
+    color:silver;
+    text-align: center;
+  }
+
 @media (max-width:768px){
   #nav-list a {
     color:black;
